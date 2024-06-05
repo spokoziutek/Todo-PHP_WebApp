@@ -43,7 +43,7 @@
     }
 
     function connectdatabase() {
-        return mysqli_connect("whathaveidone-server", "bejjvppxgi", "xsQQysM1n$vlgRz9", "todo");
+        return mysqli_connect("whathaveidone-server", "bejjvppxgi", "xsQQysM1n$vlgRz9", "whathaveidone-database");
     }
 
     function loggedin() {
