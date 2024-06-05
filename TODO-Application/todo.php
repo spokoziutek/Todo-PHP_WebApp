@@ -31,6 +31,9 @@
 <html>
 <head>
 	<title> TODO </title>
+	<style>body{
+	background-color: red;
+	}</style>
 </head>
 <body>
 	<br>
